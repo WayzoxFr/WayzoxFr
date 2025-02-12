@@ -1,39 +1,48 @@
-About me 🙇‍♂️
+# 👋 Welcome to My GitHub Profile!
 
-Hey I'm Dyllan, I am from France.
+## About Me 🙇‍♂️
 
-I mostly play Counter Strike, VRC, and probably other games I forgot to write.
+Hey, I'm **Dyllan** from France. I'm passionate about gaming and technology. I mostly play Counter Strike and VRC, along with other games that I might have forgotten to mention.
 
-✔️ I like : Chill people, respectful, when they talk English or French.
+### Hobbies and Interests 🎮
+- Playing video games: Counter Strike, VRC, and more
+- Engaging with chill and respectful people who speak English or French
 
-❎ I hate : People who constantly yell everytime they lose, non english/french speakers.
+### Dislikes ❌
+- People who constantly yell when they lose
+- Non-English/French speakers
 
-🌐 I usually appear 24/24 online, though I'm not always active.
+### Availability 🌐
+I usually appear online 24/7, though I'm not always active.
 
-My PC specs 🖥️
+## Skills and Expertise 🛠️
+- Proficient in gaming and tech setups
+- Fluent in English and French
 
-- I5 13420H 8 cores / 12 threads 4,8 GHz
+## Projects 🚀
+- [ProBot Translation](https://crowdin.com/project/probot/)
+- ## My PC Specs 🖥️
+- **Processor:** Intel i5 13420H (8 cores / 12 threads, 4.8 GHz)
+- **RAM:** 16GB DDR5 5200 MHz
+- **Storage:** 512GB SSD SK Hynix (please buy me a new one)
+- **Graphics Card:** Nvidia RTX 4050
 
-- 16Gb RAM DDR5 5200 MHz
+## My Accessories 🔫
+- **Monitor:** AOC G2 24G2ZE (240Hz, 0.5ms)
+- **Keyboard:** ON LAN CA-140 RGB 60%
+- **Mouse:** Razer Deathadder Essential Creamy White
 
-- SSD 512GB SK Hynix (please buy me a new one)
+## Social Media 🌐
+- **Instagram:** [dyllan.thu](https://instagram.com/dyllan.thu)
+- **TikTok:** [dyllan.thu](https://tiktok.com/@dyllan.thu)
+- **Discord:** wayzox
 
-- Nvidia RTX 4050
+## Contact Information 📬
+Feel free to reach out to me through social media or [email@example.com](mailto:email@example.com).
 
-My accessories 🔫
+## Acknowledgements 🙏
+Thanks for visiting my GitHub profile and reading my README!
 
-- AOC G2 24G2ZE 240Hz 0,5ms
+---
 
-- Keyboard ON LAN CA-140 RGB 60%
-
-- Mouse Razer Deathadder Essential Creamy White
-
-Socials
-
-Instagram : dyllan.thu
-
-TikTok : dyllan.thu
-
-Discord : wayzox
-
-You've reached the end, thanks for reading!
+You've reached the end, thank you for reading!
