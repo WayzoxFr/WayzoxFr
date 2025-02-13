@@ -38,7 +38,7 @@ I usually appear online 24/7, though I'm not always active.
 - **Discord:** wayzox
 
 ## Contact Information 📬
-Feel free to reach out to me through social media or [email@example.com](mailto:email@example.com).
+Feel free to reach out to me through social media or [email](mailto:crakossgames@gmail.com).
 
 ## Acknowledgements 🙏
 Thanks for visiting my GitHub profile and reading my README!
